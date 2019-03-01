@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity {
     }
     public void funH(){
 
+    }public void funJ(){
+
     }
     public void funI(){
 
