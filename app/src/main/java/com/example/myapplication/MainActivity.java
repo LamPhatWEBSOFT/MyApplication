@@ -19,4 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public void funE(){
 
     }
+    public void funG(){
+
+    }
 }
