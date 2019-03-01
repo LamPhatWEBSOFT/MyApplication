@@ -13,9 +13,5 @@ public class MainActivity extends AppCompatActivity {
     public void funA(){
 
     }
-    public void funD(){
 
-    }
-    public void funC() {
-    }
 }
