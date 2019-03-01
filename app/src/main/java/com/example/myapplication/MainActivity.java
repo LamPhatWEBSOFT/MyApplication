@@ -13,6 +13,9 @@ public class MainActivity extends AppCompatActivity {
     public void funA(){
 
     }
+    public void funF(){
+
+    }
     public void funE(){
 
     }
